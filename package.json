@@ -1,0 +1,11 @@
+{
+  "name": "kan-colle-wrapper",
+  "version": "0.0.1",
+  "description": "A clone of Grabacr07.KanColleWrapper written in CoffeeScript",
+  "main": "./lib",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ck101000xx",
+  "license": "MIT"
+}
